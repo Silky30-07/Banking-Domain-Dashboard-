@@ -4,6 +4,7 @@ I have developed a comprehensive project in Excel , jupyter notebook  and PowerB
 Develop a basic understanding of risk analytics in banking and financial services and understand how data is used to minimise the risk of losing money while lending to customers.
 
 ## Dataset used 
+https://github.com/Silky30-07/Banking-Domain-Dashboard-/blob/main/Banking.xlsx
 
 ## Tech stack 
 
@@ -34,4 +35,4 @@ Donut chart
 •	Business impact and insights -  The Power BI-based risk analytics dashboards enable banks to make data-driven lending decisions by assessing applicant profiles, reducing loan default risks. They provide valuable insights into customer behaviour, loan distribution, and bank performance, supporting strategic planning and client acquisition.
 
 
-•	   Screenshot of Dashboard
+## Screenshot of Dashboard
